@@ -39,8 +39,8 @@ android {
     }
 
     compileOptions {
-        sourceCompatibility = JavaVersion.VERSION_17 // 또는 원하는 Java 버전
-        targetCompatibility = JavaVersion.VERSION_17 // 또는 원하는 Java 버전
+        sourceCompatibility = JavaVersion.VERSION_17
+        targetCompatibility = JavaVersion.VERSION_17
     }
 
     kotlinOptions {
